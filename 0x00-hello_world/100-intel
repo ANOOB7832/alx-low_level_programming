@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -fgnu-tm -S $CFILE -o main.s
+gcc -fgnu-tm -S $CFILE -o 0-main.s
